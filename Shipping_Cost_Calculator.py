@@ -1,4 +1,4 @@
-# Here is another update by ChrisFlo002
+# Here is a new update by ChrisFlo002
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
